@@ -79,7 +79,59 @@
 
 ## Deploy to Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MrMKN/PROFESSOR-BOT&env[WEBHOOK]=True&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URL]&env[DATABASE_NAME]=MknBotz&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=mr-rofessor)              
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MrMKN/PROFESSOR-BOT&env[WEBHOOK]=True&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URL]&env[DATABASE_NAME]=MknBotz&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=mr-rofessor)      
+
+<details><summary>Deploy To Koyeb</summary>
+<br>
+<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
+<br>
+<br>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TeamHMT/Auto-search-tamil-bot&branch=main&name=Auto-search-tamil-bot)
+</details>
+
+<details><summary>Deploy To Render</summary>
+<br>
+<b>
+Use these commands:
+<br>
+<br>
+• Build Command: <code>pip3 install -U -r requirements.txt</code>
+<br>
+<br>
+• Start Command: <code>python3 bot.py</code>
+<br>
+<br>
+Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
+<br>
+<br>
+Use these settings when adding a monitor:</b>
+<br>
+<br>
+<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<br>
+<br>
+<b>Click on the below button to deploy directly to render ↓</b>
+<br>
+<br>
+<a href="https://render.com/deploy?repo=https://github.com/Infinityworl/hello/tree/main">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</details>
+
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/TeamHMT/Auto-search-tamil-bot
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
+
+<hr>
 
 ## Deploy to Railway
 
