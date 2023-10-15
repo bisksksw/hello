@@ -15,9 +15,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: Nimsara-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/Infinityworl/Charu>INFINITY-BOT</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/infinityx_Lk>ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇꜱ</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Nimsar_a>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Nimsar_a>Nimsara</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
