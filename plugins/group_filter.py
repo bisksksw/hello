@@ -100,7 +100,8 @@ async def next_page(bot, query):
             btn = [[InlineKeyboardButton(text=f"{file.file_name}", callback_data=f'files#{nxreq}#{file.file_id}'),
                     InlineKeyboardButton(text=f"{get_size(file.file_size)}", callback_data=f'files#{nxreq}#{file.file_id}')] for file in files ]
 
-    btn.insert(0, [InlineKeyboardButton("🔗 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔗", "howdl")])
+    btn.insert(0, [InlineKeyboardButton("😌 Cʜᴇᴄᴋ Bᴏᴛ PM 😌", url=f"https://t.me/{temp.U_NAME}")
+    ])
     if 0 < offset <= 10:
         off_set = 0
     elif offset == 0:
